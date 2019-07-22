@@ -1,0 +1,14 @@
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Require 4 spaces for js files
+[*.js]
+indent_size = 4
+
+#json and yml files should require 2 spaces
+[*.{json,yml}]
+indent_size = 2

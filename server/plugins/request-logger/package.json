@@ -1,0 +1,8 @@
+{
+  "name": "request-logger",
+  "description": "logs request payload",
+  "repository": {
+    "private": true
+  },
+  "version": "0.0.1"
+}
